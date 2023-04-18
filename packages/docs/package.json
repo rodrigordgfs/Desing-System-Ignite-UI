@@ -9,6 +9,11 @@
     "deploy-storybook": "storybook-to-ghpages",
     "build": "storybook build"
   },
+  "storybook-deployer": {
+    "gitUsername": "rodrigordgfs",
+    "gitEmail": "rodrigo.viegas@ulbra.inf.br",
+    "commitMessage": "Deploy Storybook to GitHub Pages"
+  },
   "keywords": [],
   "author": "",
   "license": "MIT",
