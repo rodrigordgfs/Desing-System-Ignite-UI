@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/docs",
-  "version": "1.0.0",
+  "name": "@shinoda-labs/docs",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -32,10 +32,10 @@
     "vite": "^4.2.1"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@shinoda-labs/eslint-config": "*",
+    "@shinoda-labs/react": "*",
+    "@shinoda-labs/tokens": "*",
+    "@shinoda-labs/ts-config": "*",
     "@storybook/addon-a11y": "^7.0.5",
     "@storybook/addons": "^7.0.3",
     "phosphor-react": "^1.4.1",
